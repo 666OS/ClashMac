@@ -70,6 +70,16 @@ xattr -d com.apple.quarantine /Applications/ClashMac.app
 ```
 回车后重新打开应用
 
+## License
+
+ClashMac is a proprietary, closed-source application.  
+Only binary releases are provided in this repository.
+
+This project uses third-party open-source components.  
+The full list of licenses is available in:
+
+[THIRD_PARTY_LICENSES](https://github.com/666OS/YYDS/blob/main/THIRD_PARTY_LICENSES.txt) 
+
 ## 致谢
 
 - [mihomo](https://github.com/MetaCubeX/mihomo) - 强大的内核
