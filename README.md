@@ -34,6 +34,8 @@
 - **Apple Silicon (M1/M2/M3/M4)**: `ClashMac-v*-macos-arm64.zip`
 - **Intel Mac**: `ClashMac-v*-macos-x86_64.zip`
 
+**兼容配置方案**：请参阅 [测试专用配置](https://github.com/666OS/YYDS/tree/main/mihomo/config)
+
 **安装步骤**：
 1. 解压下载的 zip 文件
 2. 将 `ClashMac.app` 拖到"应用程序"文件夹
