@@ -23,10 +23,13 @@ Thank you for your understanding and support! For more details, please refer to 
 
 <p align="center" style="margin-top: 0; margin-bottom: 50px;">
   <a href="https://github.com/666OS/ClashMac/releases/latest">
-    <img src="https://img.shields.io/github/v/release/666OS/ClashMac?style=flat-square&color=blue" alt="Latest Release">
+    <img src="https://img.shields.io/github/v/release/666OS/ClashMac?style=flat-square&logo=github&color=green" alt="Latest Release">
   </a>
   <a href="https://github.com/666OS/ClashMac/releases">
-    <img src="https://img.shields.io/github/downloads/666OS/ClashMac/total?style=flat-square&color=green" alt="Downloads">
+    <img src="https://img.shields.io/github/downloads/666OS/ClashMac/total?style=flat-square&logo=dropbox&logoColor=white&color=gold" alt="Downloads">
+  </a>
+  <a href="https://t.me/Pinched666">
+    <img src="https://img.shields.io/badge/Telegram-Channel-blue?style=flat-square&logo=telegram">
   </a>
 </p>
 
@@ -43,7 +46,9 @@ Thank you for your understanding and support! For more details, please refer to 
 - **Real-time Traffic Monitoring** - SSE push with millisecond-level updates
 - **Visualization Panel** - Traffic statistics, connections count, memory usage
 - **Web Dashboard** - Integrated control panel access
-- **In-App Updates** - Auto-detect new versions with one-click download and installation
+- **In-App Updates** - Auto update functionality
+- **Subscription Management** - Auto-update subscription sources
+- **Configuration Switching** - Multiple config files support
 
 ## Download
 

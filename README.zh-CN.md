@@ -23,13 +23,15 @@
 
 <p align="center" style="margin-top: 0; margin-bottom: 50px;">
   <a href="https://github.com/666OS/ClashMac/releases/latest">
-    <img src="https://img.shields.io/github/v/release/666OS/ClashMac?style=flat-square&color=blue" alt="Latest Release">
+    <img src="https://img.shields.io/github/v/release/666OS/ClashMac?style=flat-square&logo=github&color=green" alt="Latest Release">
   </a>
   <a href="https://github.com/666OS/ClashMac/releases">
-    <img src="https://img.shields.io/github/downloads/666OS/ClashMac/total?style=flat-square&color=green" alt="Downloads">
+    <img src="https://img.shields.io/github/downloads/666OS/ClashMac/total?style=flat-square&logo=dropbox&logoColor=white&color=gold" alt="Downloads">
+  </a>
+  <a href="https://t.me/Pinched666">
+    <img src="https://img.shields.io/badge/Telegram-Channel-blue?style=flat-square&logo=telegram">
   </a>
 </p>
-
 <p align="center">
   <img src="assets/screenshot-cn.png" alt="ClashMac Screenshot" width="400">
 </p>
@@ -43,7 +45,9 @@
 - **实时流量监控** - SSE 推送，毫秒级更新
 - **可视化面板** - 流量统计、连接数、内存使用
 - **Web Dashboard** - 集成控制面板访问
-- **应用内更新** - 自动检测新版本并支持一键下载与安装
+- **应用内更新** - 自动更新功能
+- **订阅管理** - 订阅源自动更新
+- **配置切换** - 多配置文件支持
 
 ## 下载
 
