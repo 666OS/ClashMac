@@ -1,6 +1,6 @@
 <div align="center">
 
-**语言版本：** [English](README.md) | [简体中文](README.zh-CN.md)
+**语言版本：** 简体中文 | [English](README.md)
 
 </div>
 
@@ -59,11 +59,12 @@
 **兼容方案**：请参阅 [测试配置](https://github.com/666OS/YYDS/tree/main/mihomo/config)
 
 **安装步骤**：
+
 1. 解压下载的 zip 文件
 2. 将 `ClashMac.app` 拖到"应用程序"文件夹
 3. 首次打开时，右键点击并选择"打开"（绕过安全检查）
 
-**提示**: 不确定您的 Mac 类型？点击左上角  → 关于本机，查看"芯片"信息。
+**提示**: 不确定您的 Mac 类型？点击左上角 → 关于本机，查看"芯片"信息。
 
 > **注意：Mac Gatekeeper 可能会拦截未签名应用**  
 > 因为 ClashMac 没有经过 Apple notarize（公证），macOS 默认不允许直接打开。
@@ -71,6 +72,7 @@
 ### 解决方法
 
 #### 方法 1：系统设置中允许打开
+
 1. 尝试打开 ClashMac，出现安全警告时点击"完成"
 2. 打开 **系统设置** → **隐私与安全性**
 3. 向下滚动，找到提示："ClashMac 已被阻止打开"
@@ -78,20 +80,23 @@
 5. 在弹出框再点击"仍要打开"即可
 
 #### 方法 2：终端解除限制
+
 在"终端"中输入：
 
 ```bash
 xattr -cr /Applications/ClashMac.app
 ```
-回车后重新打开应用
 
+回车后重新打开应用
 
 #### 方法 3：移除隔离属性
 
 在"终端"中输入：
+
 ```bash
 xattr -d com.apple.quarantine /Applications/ClashMac.app
 ```
+
 回车后重新打开应用
 
 ## 许可证
@@ -102,7 +107,7 @@ ClashMac 是一个专有的闭源应用程序。
 本项目使用了第三方开源组件。  
 完整的许可证列表可在此处查看：
 
-[第三方许可证](https://github.com/666OS/ClashMac/blob/main/THIRD_PARTY_LICENSES.txt) 
+[第三方许可证](https://github.com/666OS/ClashMac/blob/main/THIRD_PARTY_LICENSES.txt)
 
 ## 致谢
 
@@ -111,6 +116,7 @@ ClashMac 是一个专有的闭源应用程序。
 - [Zashboard](https://github.com/Zephyruso/zashboard)
 
 ## Star History
+
 [![Star History Chart](https://api.star-history.com/svg?repos=666OS/ClashMac&type=Date)](https://star-history.com/#666OS/ClashMac&Date)
 
 ---

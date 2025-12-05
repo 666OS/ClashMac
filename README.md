@@ -1,6 +1,6 @@
 <div align="center">
 
-**Languages:** [English](README.md) | [简体中文](README.zh-CN.md)
+**Languages:** English | [简体中文](README.zh-CN.md)
 
 </div>
 
@@ -60,11 +60,12 @@ Download the latest version from the [Releases page](https://github.com/666OS/Cl
 **Compatible Configuration**: Please refer to [Test Configurations](https://github.com/666OS/YYDS/tree/main/mihomo/config)
 
 **Installation Steps**:
+
 1. Unzip the downloaded zip file
 2. Drag `ClashMac.app` to the "Applications" folder
 3. On first launch, right-click and select "Open" (to bypass security check)
 
-**Tip**: Not sure which Mac you have? Click the  menu at the top left → About This Mac, and check the "Chip" information.
+**Tip**: Not sure which Mac you have? Click the menu at the top left → About This Mac, and check the "Chip" information.
 
 > **Note: Mac Gatekeeper may block unsigned applications**  
 > Since ClashMac is not Apple notarized, macOS will not allow it to open directly by default.
@@ -72,6 +73,7 @@ Download the latest version from the [Releases page](https://github.com/666OS/Cl
 ### Solutions
 
 #### Method 1: Allow in System Settings
+
 1. Try to open ClashMac, click "Done" when the security warning appears
 2. Open **System Settings** → **Privacy & Security**
 3. Scroll down and find the message: "ClashMac was blocked from opening"
@@ -79,20 +81,23 @@ Download the latest version from the [Releases page](https://github.com/666OS/Cl
 5. Click "Open Anyway" again in the popup dialog
 
 #### Method 2: Remove Restrictions via Terminal
+
 Enter in Terminal:
 
 ```bash
 xattr -cr /Applications/ClashMac.app
 ```
-Press Enter and reopen the application
 
+Press Enter and reopen the application
 
 #### Method 3: Remove Quarantine Attribute
 
 Enter in Terminal:
+
 ```bash
 xattr -d com.apple.quarantine /Applications/ClashMac.app
 ```
+
 Press Enter and reopen the application
 
 ## License
@@ -103,7 +108,7 @@ Only binary releases are provided in this repository.
 This project uses third-party open-source components.  
 The full list of licenses is available at:
 
-[THIRD_PARTY_LICENSES](https://github.com/666OS/ClashMac/blob/main/THIRD_PARTY_LICENSES.txt) 
+[THIRD_PARTY_LICENSES](https://github.com/666OS/ClashMac/blob/main/THIRD_PARTY_LICENSES.txt)
 
 ## Acknowledgments
 
@@ -112,6 +117,7 @@ The full list of licenses is available at:
 - [Zashboard](https://github.com/Zephyruso/zashboard)
 
 ## Star History
+
 [![Star History Chart](https://api.star-history.com/svg?repos=666OS/ClashMac&type=Date)](https://star-history.com/#666OS/ClashMac&Date)
 
 ---
