@@ -56,6 +56,8 @@
 - **Dual Proxy Modes**: System Proxy + TUN Enhanced, complete traffic coverage
 - **Standalone Dashboard**: Native Dashboard app with Proxies/Rules/Connections/Logs at a glance
 - **Traffic Tracking**: 4-dimension statistics by Proxy/Process/Interface/Host, byte-level precision
+- **Traffic Trends**: 7-day bar chart with daily average, usage patterns at a glance
+- **Rule Statistics**: Visualize rule match counts, one-click reset
 - **Privacy Mode**: One-click hide sensitive info like IP/nodes, share screenshots worry-free
 - **One-Click Rules**: Add proxy rules for current webpage, supports major browsers
 - **Zero Config**: Auto-complete DNS/TUN/GEO parameters, ready out of the box
