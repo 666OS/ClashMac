@@ -9,7 +9,7 @@
   <img src="assets/Logo-Default.png" alt="ClashMac Logo" width="300" style="filter: drop-shadow(0 4px 12px rgba(0, 0, 0, 0.15));">
 </p>
 <h1 align="center">ClashMac</h1>
-<h3 align="center" style="margin-top: 0; margin-bottom: 10px;">Lightweight macOS Clash Menu Bar Client</h3>
+<h3 align="center" style="margin-top: 0; margin-bottom: 10px;">Powerful & Elegant Native macOS Clash Client</h3>
 <p align="center">
   🌐 <a href="https://clashmac.app"><strong>Official Website: clashmac.app</strong></a>
 </p>
@@ -29,24 +29,17 @@
   </a>
 </p>
 
-<p align="center">
-  <a href="https://clashmac.app">
-    <img src="assets/website.png" alt="ClashMac Website" width="800">
-  </a>
-</p>
-
 ## Preview
 <table>
   <tr>
-    <th>Dark</th>
-    <th>Light</th>
+    <td colspan="2" align="center"><img src="./assets/dashboard.jpg" alt="Dashboard"></td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center"><img src="./assets/Topology.jpg" alt="Topology"></td>
   </tr>
   <tr>
     <td><img src="./assets/preview_dark.png" alt="Dark"></td>
     <td><img src="./assets/preview_light.png" alt="Light"></td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center"><img src="./assets/preview_dashboard.jpg" alt="Dashboard"></td>
   </tr>
 </table>
 
@@ -55,6 +48,7 @@
 - **Native Development**: Built with SwiftUI, deeply integrated with macOS
 - **Dual Proxy Modes**: System Proxy + TUN Enhanced, complete traffic coverage
 - **Standalone Dashboard**: Native Dashboard app with Proxies/Rules/Connections/Logs at a glance
+- **Connection Topology**: Native traffic topology visualization, see where your data comes from and goes
 - **Traffic Tracking**: 4-dimension statistics by Proxy/Process/Interface/Host, byte-level precision
 - **Traffic Trends**: 7-day bar chart with daily average, usage patterns at a glance
 - **Rule Statistics**: Visualize rule match counts, one-click reset
@@ -63,14 +57,15 @@
 - **Zero Config**: Auto-complete DNS/TUN/GEO parameters, ready out of the box
 - **Real-Time Stats**: Menu bar shows speed, connections, memory usage
 - **Subscription Info**: Usage, expiry date, progress bar at a glance
-- **Quick Switch**: Switch nodes directly from menu bar, one-click latency test
+- **Quick Switch**: Switch nodes from menu bar/dashboard, one-click latency test
+- **Auto-Disconnect**: Auto-disconnect existing connections on node switch, traffic flows through new node immediately
 - **Subscription Management**: Remote config import, auto-update, smart naming
 - **Drag & Drop**: Drop YAML config, auto-switch and apply
 - **Config Pre-Check**: Auto-validate before import, pinpoint errors precisely
 - **Video Boost**: Disable overseas QUIC, say goodbye to YouTube buffering
 - **Parameter Override**: Unified config across subscriptions, no file modification
 - **Crash Diagnosis**: Auto-identify issues, provide solutions
-- **Shortcuts**: Rich keyboard shortcuts for efficient control
+- **Global Hotkeys**: System-level shortcuts for proxy control, one-key dashboard access
 - **Lightweight**: Menu bar resident, minimal memory footprint
 - **Customizable UI**: Show/hide menu items, create your own layout
 - **Auto Update**: Detect new versions, one-click upgrade
@@ -79,10 +74,9 @@
 
 ## System Requirements
 
-| Feature | Minimum Version |
-|---------|----------------|
-| Basic Features | macOS 12.4+ |
-| Dashboard/Traffic Stats/Privacy Mode | macOS 13.0+ |
+**Minimum Version**: macOS 13.5+
+
+> **macOS 12.x Users**: Please continue using [v1.4.24](https://github.com/666OS/ClashMac/releases/tag/v1.4.24), stable and reliable
 
 ## Download
 
