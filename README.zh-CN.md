@@ -9,7 +9,7 @@
   <img src="assets/Logo-Default.png" alt="ClashMac Logo" width="300" style="filter: drop-shadow(0 4px 12px rgba(0, 0, 0, 0.15));">
 </p>
 <h1 align="center">ClashMac</h1>
-<h3 align="center" style="margin-top: 0; margin-bottom: 10px;">轻量级 macOS Clash 菜单栏客户端</h3>
+<h3 align="center" style="margin-top: 0; margin-bottom: 10px;">强大优雅的 macOS Clash 原生客户端</h3>
 <p align="center">
   🌐 <a href="https://clashmac.app"><strong>官方网站：clashmac.app</strong></a>
 </p>
