@@ -101,8 +101,8 @@
 
 Download the latest version from the [Releases page](https://github.com/666OS/ClashMac/releases/latest):
 
-- **Apple Silicon (M1/M2/M3/M4)**: `ClashMac-v*-macos-arm64.zip`
-- **Intel Mac**: `ClashMac-v*-macos-x86_64.zip`
+- **Apple Silicon (M1/M2/M3/M4/M5)**: `ClashMac-*-macos-arm64.zip`
+- **Intel Mac**: `ClashMac-*-macos-x86_64.zip`
 
 **Compatible Configuration**: Please refer to [Test Configurations](https://github.com/666OS/YYDS/tree/main/mihomo/config)
 
