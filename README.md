@@ -111,7 +111,7 @@ View third-party credits and licenses here:
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=666OS/ClashMac&type=Date)](https://star-history.com/#666OS/ClashMac&Date)
+[![Star History Chart](https://afterglow.watch/svg?repos=666OS/ClashMac&type=Date)](https://afterglow.watch)
 
 <p align="center">
   Crafted with ❤️ for macOS
