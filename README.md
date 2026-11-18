@@ -24,20 +24,12 @@
   </a>
 </p>
 
-<table>
-  <tr>
-    <td colspan="2" align="center"><img src="./assets/dashboard_b.jpg" alt="Dashboard"></td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center"><img src="./assets/Route_b.jpg" alt="Route"></td>
-  </tr> 
-  <tr>
-    <td colspan="2" align="center"><img src="./assets/Topology_b.jpg" alt="Topology"></td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center"><img src="./assets/menu_b.jpg" alt="Menu"></td>
-  </tr>
-</table>
+<p align="center">
+  <img src="./assets/shot-overview.png" alt="Overview" width="100%">
+</p>
+<p align="center">
+  <img src="./assets/shot-map.png" alt="Route Map" width="100%">
+</p>
 
 ## ✨ Features
 
